@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\manon\\.nuget\\packages\\": {}
+    "C:\\Users\\natha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manon\\OneDrive\\Documents\\cours\\algo\\C#\\ConsoleApp3\\ConsoleApp3\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\natha\\OneDrive - e-artsup\\Documents\\Exercices\\Langage info\\Github\\TestApp\\TestApp\\Hello world\\ConsoleApp3\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\manon\\OneDrive\\Documents\\cours\\algo\\C#\\ConsoleApp3\\ConsoleApp3\\HelloWorld.csproj",
-      "packagesPath": "C:\\Users\\manon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manon\\OneDrive\\Documents\\cours\\algo\\C#\\ConsoleApp3\\ConsoleApp3\\obj\\",
+      "projectPath": "C:\\Users\\natha\\OneDrive - e-artsup\\Documents\\Exercices\\Langage info\\Github\\TestApp\\TestApp\\Hello world\\ConsoleApp3\\HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\natha\\OneDrive - e-artsup\\Documents\\Exercices\\Langage info\\Github\\TestApp\\TestApp\\Hello world\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\manon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
